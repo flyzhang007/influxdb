@@ -45,6 +45,7 @@ The stress tool `influx_stress` will be removed in a subsequent release. We reco
 - [#7585](https://github.com/influxdata/influxdb/pull/7585): Return Error instead of panic when decoding point values.
 - [#7812](https://github.com/influxdata/influxdb/issues/7812): Fix slice out of bounds panic when pruning shard groups. Thanks @vladlopes
 - [#7822](https://github.com/influxdata/influxdb/issues/7822): Drop database will delete /influxdb/data directory
+- [#7814](https://github.com/influxdata/influxdb/issues/7814): InfluxDB should do a partial write on mismatched type errors.
 
 ## v1.1.1 [2016-12-06]
 
