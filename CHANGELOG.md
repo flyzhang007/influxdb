@@ -1,3 +1,11 @@
+## v1.3.0 [unreleased]
+
+### Release Notes
+
+### Bugfixes
+
+- [#7856](https://github.com/influxdata/influxdb/issues/7856): Failed points during an import now result in a non-zero exit code.
+
 ## v1.2.0 [unreleased]
 
 ### Release Notes
