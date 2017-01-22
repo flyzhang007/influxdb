@@ -1,3 +1,11 @@
+## v1.3.0 [unreleased]
+
+### Release Notes
+
+### Features
+
+- [#7776](https://github.com/influxdata/influxdb/issues/7776): Add system information to /debug/vars.
+
 ## v1.2.0 [unreleased]
 
 ### Release Notes
